@@ -1,0 +1,25 @@
+-Sex Ratio =Total de Mujeres/Total de Hombres...............1
+
+*La poblacion esta confeccionada por HyM
+
+entonces...
+-Population = Female+Males ...........................2
+
+- Females= Population - Males ........................3
+
+*Reemplazamos en la primera Ecuacion. Males cambia de lado pasando mult.
+entonces...
+*Solo tenemos dos columnas(Populat. y Sex_ratio), por lo que tenemos que calcular el total de F y M por lo que tratamos de derivar la funcion.
+
+(Population - males) = (Sex_Ratio) * Males
+
+Entonces.... (Derivamos  *Males --> +1)
+
+Population  = Males(Sex_Ratio+1)
+........
+
+Males = Population/(Sex_Ratio+1) ..............Males
+Reemplazamos...
+Females = Population-Population/(Sex_Ratio+1)........Female
+
+Culminamos los calculos.
