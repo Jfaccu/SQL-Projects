@@ -1,5 +1,6 @@
 # # 👩‍🚀Portfolio Personal
 👋Hola! Me llamo Facundo Espinola, este es mi portfolio personal para reclutadores o cualquier interesado en los proyectos.
+En Este Repositorio tiene como objetivo conservar todos los proyectos que estaré realizando entorno a SQL. 
 
 ## 📝PROYECTOS
 
