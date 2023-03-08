@@ -3,7 +3,7 @@
 En Este Repositorio tiene como objetivo conservar todos los proyectos que estaré realizando entorno a SQL. 
 
 ## 📝PROYECTOS
-## [Proyecto EDA (Exploratory Data Aanalysis) Zomato Delivery's (SQL Server)
+## [Proyecto EDA (Exploratory Data Aanalysis) Zomato Delivery's (SQL Server)](https://github.com/Jfaccu/SQL-Projects/tree/main/Proyecto%20EDA%20Zomato)
 
 ![Image text](https://i.ibb.co/hczkhv8/unnamed.png)
 
