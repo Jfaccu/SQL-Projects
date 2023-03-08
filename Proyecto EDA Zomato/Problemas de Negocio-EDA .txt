@@ -1,0 +1,40 @@
+PREGUNTAS DE NEGOCIO PLANTEADAS EN DATOS EXPLORATORIOS EN SQL.
+
+1- ¿Cual es la cantidad total que gasto cada cliente de Zomato?
+Con esta pregunta estaremos visualizando el gasto total que tienen los usuarios en su historial.
+
+2- ¿Cuantos dias visito el sitio web de zomato cada cliente ya sea por visita o por realizar una compra?
+Identificacion para cada usuario necesitamos calcular  la fecha de creacion distinta.
+
+3- ¿Cual es el primer producto que compra el cliente?
+ El usuario se une al sitio web y queremos saber cual es el producto que esta comprando, para ello podremos observar cual es el producto que mayormente adquiere el cliente a la hora de registrarse en nuestra web.
+Generaremos un rankeo de users para observar el dia que realizaron la primer compra y ver que producto adquirieron por primera vez, ya que si invirtieramos en el producto ma spopular atraeriamos muchos clientes diferentes.
+
+4- ¿Cual es el articulo mas comprado en el menu y cuantas veces lo comprar todos los clientes?
+Veremos cuantas veces cada uno de los clientes compra ese producto en particular que se compra muchas veces lo cual nos dara muchas indicaciones de dinero para el proposito comercial.
+Generaremos una subqueries para encontrar el poducto que mas se demandó y luego la incorporaremos a una consulta para ver la cantidad que la obtuvo cada cliente.
+
+5- ¿Qué elemento fue el mas popular para cada uno de los clientes?
+Para cada identificador de cliente, buscar su producto favorito y cual es su compra concurrentemente. 
+
+6- ¿ Qué articulo compro primero el cliente despues de convertirse en miembro dorado?
+Recopilaremos informacion para saber que productos les atrae al cliente, luego de que se halla unido a la membresia dorada. identificaremos al producto que obtuvo luego de la membresia por su ID.
+
+7- ¿Qué articulos de compro justo antes de que el cliente se convirtiera en miembro?
+Seleccionaremos que pedidos o el producto que el cliente ah solicitado antes de convertirse en miembro.
+
+8- ¿Cuál es el total de pedidos y el monto gastado por cada cliente antes de convertirse en miembro?
+Informacion relevante ya que el numero total de pedidos obtendremos una visibilidad de los pedidos del cliente. Es una buena indicacion para el negocio. podremos saber la cantidad de pedidos y los montos gastados por el cliente antes de ser miembro. Insight promedio de pedidos y montos totales antes de ser miembro.
+
+9- Si la compra de cada producto genera puntos ,por ejemplo, 5 rupias = 2 puntos zomato y cada producto tiene diferentes puntos de compra, por ejemplo, para p1 5 rupias = 1 punto zomato, para p2 10 rupias = 5 puntos zomato y p3 5 rupias = 1 punto zomato. ¿Cual es la metrica que necesitamos para calcular los puntos recopilados por cada cliente y para que producto se han otorgado la mayoria de los puntos zomatos?
+En estas aplicaciones  y sitios webs de compra de alimentos o sitios web de comercio electronico, obtendran ciertas recompensas y/o tipos de reembolsos cuando estamos comprando un producto en particular o cualquier cosa que podamos usar. El problema a plantear es cuantos puntos de zomaton son en catidad de rupias. 
+
+10- En el primer año, un cliente se une al programa de oro (incluida su fecha de ingreso), independientemente de lo que haya comprado el cliente, ganaron 5 puntos zomato por cada 10 rupias gastados.
+¿Que usuario gano más?,  1 o 3 -> Usuarios con miembro dorado, 
+y cuál fue su ganancia de puntos en su primera ¿año? 
+Por cada rupia gastada -> obtencion de 2 puntos zomato independientemente del producto. 1rs= 2pts -> 0.5rs=1pto
+
+
+11- Clasificar todas las transacciones del cliente.
+
+12- Clasificar todas las transacciones para cada miembro siempre que sea un miembro dorado de zomato, para cada transacción que no sea miembro dorado marque como NA.

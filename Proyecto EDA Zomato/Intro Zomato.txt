@@ -1,0 +1,16 @@
+INTRODUCCION ZOMATO:
+Zomato es una empresa en la que en la aplicacion podemos pedir nuestra comida.
+
+Recoleccion de varios problemas diferentes para plantear ene ste conjunto de datos, haciendo varias tareas de exploracion. En este conjunto de datos veremos el comportamiento de los clientes conforme a sus pedidos y que tipos de productos son los que estan pidiendo. También tiene su memebresia dorada.
+-Primer lugar: entender el conjunto de datos
+-Membresia de zomato gold: Suscripcion a la membresia y luego tendras ciertos beneficios adicionales para que los clientes aprovechen al tomar este tipo de membresia, ya sean tipos de descuentos, ofertas o mayor ganancias de puntos Zomatos (Estos puntos darán valor de reembolso), sin tarifas de envios, recibir articulos adicionales en la orden, etc.
+
+Tenemos 4 tablas de datos:  
+GoldenUsers -> tengo el Id de usuario agreado a la segunda columna tengo la actualizacion de signo dorado.
+Sales --> primera columna id usuarios, seguna columna cuando se ah creado y en la tercera Id producto, como cual es el producto que fue comprado por la id de usuario partiduclar (basicamente la fecha del pedido que fue realizado pro el cliente para esa ID de producto en particular, por ejemplo, si necesito explicar una determinada fila, la Id de usuario compro la id del producto en una fecha en particular. Mismos datos con respecto al pedido o al producto que compro el cliente y en que estado el cliente compro ese producto ).
+Productos --> Id productos, el nombre del producto y el precio del producto en particular.
+Users --> Usuario Id en primera columna y en la segunda, la actualizacion firmada.
+
+En dos tablas diferente tenemos los datos de los usuarios, esto quiere decir que se convertirá en un cliente de oro con su membresia solamente quienes estén interesados. Digamos que si somos nuevos clientes caeremos a la base de datos de usuarios administrando toda su informacion con el id correspondiente y la actualizacion de la firma. En en otro caso, si adquieren de manera premium será contado en los datos de  registro de GoldenUsers, sino seras miembro de la junta.
+
+- Zomato para su propocito dentro del equipo comercial, desarrollamos 12 metricas que pueden ser utiles para el negocio, en donde esto es una exploracion de datos simple
