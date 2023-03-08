@@ -3,6 +3,9 @@
 En Este Repositorio tiene como objetivo conservar todos los proyectos que estaré realizando entorno a SQL. 
 
 ## 📝PROYECTOS
+## [Proyecto EDA (Exploratory Data Aanalysis) Zomato Delivery's (SQL Server)
+
+![Image text](https://i.ibb.co/hczkhv8/unnamed.png)
 
 ## 💿[Consultas avanzadas a Base de datos Censo Indio (SQL Server Management)](https://github.com/Jfaccu/SQL-Projects/tree/main/Proyecto%20SQL%20Tareas%20Analisis)
 Importamos Data sobre el censo indio, en lo que trateremos de realizar consultas para responder preguntas de analisis que se podran utilizar en visualizaciones.
