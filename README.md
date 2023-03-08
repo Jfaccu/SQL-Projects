@@ -4,6 +4,10 @@ En Este Repositorio tiene como objetivo conservar todos los proyectos que estar�
 
 ## 📝PROYECTOS
 ## 🔎[Proyecto EDA (Exploratory Data Aanalysis) Zomato Delivery's (SQL Server)](https://github.com/Jfaccu/SQL-Projects/tree/main/Proyecto%20EDA%20Zomato)🔎
+Zomato es una app en la que realializa delivery incluyendo mas de 500 locales de comidas y restaurant.
+Realizaré un Analisis Exploratorio de Datos (EDA) para encontrar informacion de varios problemas de negocios que debenos plantear en este conjunto de datos, haciendo varias tareas de exploracion. En este conjunto de datos veremos el comportamiento de los clientes conforme a sus pedidos y que tipos de productos son los que estan pidiendo. También tiene su memebresia dorada.
+
+-Membresia Dorada de zomato: Suscripcion a la membresia y luego tendras ciertos beneficios adicionales para que los clientes aprovechen al tomar este tipo de membresia, ya sean tipos de descuentos, ofertas o mayor ganancias de puntos Zomatos (Estos puntos darán valor de reembolso), sin tarifas de envios, recibir articulos adicionales en la orden, etc.
 
 ![Image text](https://i.ibb.co/hczkhv8/unnamed.png)
 
