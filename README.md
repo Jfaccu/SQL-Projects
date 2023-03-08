@@ -14,7 +14,7 @@ En este codigo encontraran:
 - Consultas Basicas y Avanzadas.
 - Implementacion de Estadisitica y Formulas matematicas.
 - 
-![Image text](https://i.ibb.co/qg3fdZr/Census.jpg)
+![Image text](https://i.ibb.co/23txkKG/2021-Census-of-India-logo.png)
 
 ## 💿[Creacion de Base de Datos para un restaurant ficticio (MySQL)](https://github.com/Jfaccu/SQL-Projects/tree/main/1_Proyecto_Base_de_datos_MySQL)💿
 Creamos una base de datos emulando un restaurant, el flujo de datos pasa desde el pedido del cliente hasta recibir la facturación. 
