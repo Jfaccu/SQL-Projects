@@ -30,3 +30,4 @@ Objetos que la componen:
 - Triggers.
 - Sentencias DCL: Creacion de Roles.
 - Sentencias TCL: Comandos Compactos.
+![Image text](https://i.ibb.co/31yyVDt/Dise-o-sin-t-tulo-2.png)
